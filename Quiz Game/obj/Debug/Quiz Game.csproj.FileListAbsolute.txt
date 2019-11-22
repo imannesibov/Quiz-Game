@@ -1,0 +1,12 @@
+C:\Users\NXsi_qew2\source\repos\Quiz Game\Quiz Game\bin\Debug\Quiz Game.exe.config
+C:\Users\NXsi_qew2\source\repos\Quiz Game\Quiz Game\bin\Debug\Quiz Game.exe
+C:\Users\NXsi_qew2\source\repos\Quiz Game\Quiz Game\bin\Debug\Quiz Game.pdb
+C:\Users\NXsi_qew2\source\repos\Quiz Game\Quiz Game\obj\Debug\Quiz Game.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\source\repos\Quiz Game\Quiz Game\obj\Debug\Quiz Game.exe
+C:\Users\NXsi_qew2\source\repos\Quiz Game\Quiz Game\obj\Debug\Quiz Game.pdb
+C:\Users\lenovo 330\Desktop\Quiz Game\Quiz Game\bin\Debug\Quiz Game.exe.config
+C:\Users\lenovo 330\Desktop\Quiz Game\Quiz Game\bin\Debug\Quiz Game.exe
+C:\Users\lenovo 330\Desktop\Quiz Game\Quiz Game\bin\Debug\Quiz Game.pdb
+C:\Users\lenovo 330\Desktop\Quiz Game\Quiz Game\obj\Debug\Quiz Game.csprojAssemblyReference.cache
+C:\Users\lenovo 330\Desktop\Quiz Game\Quiz Game\obj\Debug\Quiz Game.exe
+C:\Users\lenovo 330\Desktop\Quiz Game\Quiz Game\obj\Debug\Quiz Game.pdb
